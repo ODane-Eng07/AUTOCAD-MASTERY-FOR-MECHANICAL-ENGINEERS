@@ -1,1 +1,123 @@
 # AUTOCAD-MASTERY-FOR-MECHANICAL-ENGINEERS
+## TABLE OF CONTENTS
+- 1. [INTRODUCTION](#introduction)
+     - [What is AutoCAD?](#what-is-autocad?)
+     - [Why Mechanical Engineers Must Learn AutoCAD](#why-mechanical-engineers-must-learn-autocad)
+     - [2D vs 3D Drafting](#2d-vs-3d-drafting)
+     - [Real-World Applications in Mechanical Engineering](#real-world-applications-in-mechanical-engineering)
+     - [Course Roadmap](#course-roadmap)
+- 2. [INSTALLATION & SETUP](#installation-&-setup)
+     - [Installing AutoCAD](#installing-autocad)
+     - [Interface Overview](#interface-overview)
+     - [Workspace Customization](#workspace-customization)
+     - [Units Setup (mm vs inches)](#units-setup-(mm-vs-inches))
+     - [Saving Templates](#saving-templates)
+     - [Drawing Limits & Grid Settings](#drawing-limits-&-grid-settings)
+- 3. [BASIC DRAWING COMMANDS](#basic-drawing-commands)
+     - [LINE](#line)
+     - [CIRCLE](#circle)
+     - [ARC](#arc)
+     - [RECTANGLE](#rectangle)
+     - [POLYGON](#polygon)
+     - [ELLIPSE](#ellipse)
+     - [POLYLINE](#polyline)
+     - [SPLINE](#spline)
+- 4. [MODIFY COMMANDS](#modify-commands)
+     - [MOVE](#move)
+     - [COPY](#copy)
+     - [ROTATE](#rotate)
+     - [SCALE](#scale)
+     - [TRIM](#trim)
+     - [EXTEND](#extend)
+     - [MIRROR](#mirror)
+     - [OFFSET](#offset)
+     - [FILLET](#fillet)
+     - [CHAMFER](#chamfer)
+     - [ARRAY (Rectangular, Polar, Path)](#array-(rectangular-polar-path))
+- 5. [PRECISION TOOLS](#precision-tools)
+      - [Object Snap (OSNAP)](#object-snap-(osnap))
+      - [Polar Tracking](#polar-tracking)
+      - [Ortho Mode](#ortho-mode)
+      - [Dynamic Input](#dynamic-input)
+      - [Coordinate Systems (Absolute, Relative, Polar)](#coordinate-systems-(absolute-relative-polar))
+      - [Using Construction Lines](#using-construction-lines)
+- 6. [DIMENSIONING & ANNOTATIONS](#dimensioning-&-annotations)
+     - [Linear Dimensions](#linear-dimensions)
+     - [Aligned Dimensions](#aligned-dimensions)
+     - [Angular Dimensions](#angular-dimensions)
+     - [Radius & Diameter](#radius-&-diameter)
+     - [Dimension Styles](#dimension-styles)
+     - [Tolerances](#tolerances)
+     - [Leaders & Multileaders](#leaders-&-multileaders)
+     - [Text Formatting](#text-formatting)
+- 7. [LAYERS & PROPERTIES](#layers-&-properties)
+     - [Creating Layers](#creating-layers)
+     - [Line Types](#line-types)
+     - [Line Weights](#line-weights)
+     - [Layer Standards for Engineering Drawing](#layer-standards-for-engineering-drawing)
+     - [Color Coding Strategy](#color-coding-strategy)
+- 8. [HATCHING & SECTIONING](#hatching-&-sectioning)
+     - [HATCH Command](#hatch-command)
+     - [ANSI Hatch Patterns](#ansi-hatch-patterns)
+     - [Section View Rules](#section-view-rules)
+     - [Cutting Plane Representation](#cutting-plane-representation)
+     - [Common Mistakes in Section Drawings](#common-mistakes-in-section-drawings)
+- 9. [ORTHOGRAPHIC & ISOMETRIC DRAWING](#orthographic-&-isometric-drawing)
+     - [First Angle Projection](#first-angle-projection)
+     - [Third Angle Projection](#third-angle-projection)
+     - [Generating Orthographic Views](#generating-orthographic-views)
+     - [Isometric Drawing in 2D](#isometric-drawing-in-2d)
+     - [Converting Isometric to Orthographic](#converting-isometric-to-orthographic)
+- 10. Mechanical Components Practice
+      - Nuts & Bolts
+      - Keys & Keyways
+      - Shaft Design
+      - Flange Coupling
+      - Knuckle Joint
+      - Cotter Joint
+      - Screw Jack
+- 11. Engineering Curves
+      - Involute of a Circle
+      - Cycloid
+      - Helix
+      - Spiral
+      - Cam Profiles
+
+- 12. Introduction to 3D Modeling
+      - 3D Workspace
+      - EXTRUDE
+      - REVOLVE
+      - SWEEP
+      - LOFT
+      - Boolean Operations
+      - Viewing Tools
+      - Rendering Basics
+- 13. Plotting & Printing
+      - Layout Space vs Model Space
+      - Title Blocks
+      - Scaling for Printing
+      - Plot Styles
+      - Exporting to PDF
+
+- 14. Mini Projects
+      - Project 1: Sectioned Mechanical Plate\
+      - Project 2: Flange Coupling Assembly
+      - Project 3: Machine Bracket
+      - Project 4: Complete Orthographic Drawing
+
+= 15. Advanced Beginner Topics
+      - Blocks & Attributes
+      - External References (XREF)Parametric ConstraintsTemplates for Mechanical Drawing
+
+- 16. Exam Preparation Section
+      - Common First-Year AutoCAD Questions
+      - Common Mistakes Students Make
+      - Time Management Strategy
+      - Marking Scheme Tips
+
+- 17. Resources
+      - Command Cheat Sheet
+      - Keyboard Shortcuts
+      - Useful YouTube Channels
+      - Practice Drawing PDFs
+      - Recommended Books
